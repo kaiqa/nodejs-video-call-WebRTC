@@ -1,3 +1,6 @@
+My version does not have the bugs from the initial git and I added a barcode functionality.
+The video call functio nality does work on android,  iPhone are tricky.
+
 https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC.git
 
 https://www.youtube.com/watch?v=DvlyzDZDEq4
